@@ -1,3 +1,8 @@
+# dependencias e segredos do modulo de checkout
+checkout/node_modules/
+checkout/.env
+*.png
+
 # logs e saidas de execucao
 *.log
 launchd.out.log
