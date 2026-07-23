@@ -65,3 +65,9 @@ A v1 valida por confiança (recência + corroboração). O passo seguinte, ligad
 loja, é abrir o carrinho e aplicar o código de verdade para confirmar o desconto.
 É a parte frágil (cada loja tem fluxo próprio; algumas têm anti-bot/CAPTCHA no
 checkout) e por isso fica como módulo separado a habilitar gradualmente.
+
+## Author
+
+Built by **Luis Azevedo** — available for freelance / consulting work on video, short-form content, and automation.
+📬 [username.azevedo@gmail.com](mailto:username.azevedo@gmail.com)
+
