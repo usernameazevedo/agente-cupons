@@ -1,0 +1,9 @@
+# logs e saidas de execucao
+*.log
+launchd.out.log
+launchd.err.log
+resultados/*.json
+__pycache__/
+*.pyc
+.venv/
+.DS_Store

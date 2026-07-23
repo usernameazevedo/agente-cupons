@@ -1,0 +1,52 @@
+{
+  "grupo_whatsapp": "Claude.cupom",
+  "outbox": "/Users/luisazvedo/claude/agenda-whatsapp/outbox.json",
+  "min_score_entrega": 40,
+  "max_cupons_por_loja": 5,
+  "lojas": [
+    {
+      "id": "nike",
+      "nome": "Nike",
+      "link_ofertas": "https://www.nike.com.br/nk/ofertas",
+      "cuponomia": "https://www.cuponomia.com.br/desconto/nike",
+      "queries": [
+        "cupom de desconto Nike Brasil funcionando codigo julho 2026",
+        "Nike Brasil cupom primeira compra frete gratis codigo 2026"
+      ],
+      "dominio": "nike.com.br"
+    },
+    {
+      "id": "adidas",
+      "nome": "Adidas",
+      "link_ofertas": "https://www.adidas.com.br/ofertas",
+      "cuponomia": "https://www.cuponomia.com.br/desconto/adidas",
+      "queries": [
+        "cupom de desconto Adidas Brasil funcionando codigo julho 2026",
+        "Adidas Brasil cupom primeira compra codigo desconto 2026"
+      ],
+      "dominio": "adidas.com.br"
+    },
+    {
+      "id": "centauro",
+      "nome": "Centauro",
+      "link_ofertas": "https://www.centauro.com.br/promocoes",
+      "cuponomia": "https://www.cuponomia.com.br/desconto/centauro",
+      "queries": [
+        "cupom de desconto Centauro funcionando codigo julho 2026",
+        "Centauro cupom primeira compra BOASVINDAS codigo 2026"
+      ],
+      "dominio": "centauro.com.br"
+    },
+    {
+      "id": "renner",
+      "nome": "Renner",
+      "link_ofertas": "https://www.lojasrenner.com.br/c/promocoes",
+      "cuponomia": "https://www.cuponomia.com.br/desconto/lojas-renner",
+      "queries": [
+        "cupom de desconto Lojas Renner funcionando codigo julho 2026",
+        "Renner cupom primeira compra codigo desconto 2026"
+      ],
+      "dominio": "lojasrenner.com.br"
+    }
+  ]
+}
