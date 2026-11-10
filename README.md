@@ -69,5 +69,5 @@ checkout) e por isso fica como módulo separado a habilitar gradualmente.
 ## Author
 
 Built by **Luis Azevedo** — available for freelance / consulting work on video, short-form content, and automation.
-📬 [username.azevedo@gmail.com](mailto:username.azevedo@gmail.com)
+📬 [contato@midianoxx.com](mailto:contato@midianoxx.com)
 
